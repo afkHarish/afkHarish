@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning JavaScript and Python.
+🌱 I’m currently learning TypeScript.
 
 
 ## 🌐 Socials:
